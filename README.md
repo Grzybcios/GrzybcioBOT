@@ -19,6 +19,7 @@ Edytuj plik `config.json`:
   "voiceChannelName": "2137"
 }
 
+```
 🔸 Opis pól:
 
     token – token Twojego bota z Discord Developer Portal
@@ -67,5 +68,6 @@ Edytuj plik `config.json`:
     godzinie startu,
 
     serwerze i kanale,
+
 
     błędach i zakończeniu odtwarzania.
