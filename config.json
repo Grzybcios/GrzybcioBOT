@@ -1,0 +1,8 @@
+{
+  "token": "TWÓJ_TOKEN_BOTA",
+  "guildId": "123456789012345678",
+  "audioFile": "./muzyka.mp3",
+  "hour": 21,
+  "minute": 37,
+  "voiceChannelName": "2137"
+}

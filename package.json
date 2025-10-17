@@ -1,0 +1,17 @@
+{
+  "name": "grzybcio-bot",
+  "version": "1.1.0",
+  "description": "Bot Discord, który o określonej godzinie wchodzi na kanał i odtwarza muzykę (tylko dla jednego serwera).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Grzybcio",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "discord.js": "^14.15.3",
+    "ffmpeg-static": "^5.2.0",
+    "node-schedule": "^2.1.1"
+  }
+}
